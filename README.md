@@ -287,7 +287,7 @@ The output layer contains seven neurons corresponding to the seven emotion class
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/BETTER678/real-time-facial-expression-recognition.git
 ```
 
 Navigate to the project directory:
