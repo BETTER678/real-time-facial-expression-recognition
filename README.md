@@ -26,7 +26,6 @@ The project uses a **Convolutional Neural Network (CNN)** built with **TensorFlo
 * Confidence score displayed with the predicted emotion
 
 ---
-
 ## Project Workflow
 
 ```text
