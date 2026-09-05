@@ -121,22 +121,26 @@ real-time-facial-expression/
 │   └── test/
 │
 ├── models/
+│   ├── emotion_model.keras
 │   ├── emotion_model_v2.keras
 │   └── emotion_model_v3.keras
 │
 ├── src/
-│   ├── explore_dataset.py
-│   ├── train_model.py
-│   ├── train_model_v2.py
-│   ├── train_model_v3.py
-│   ├── evaluate_model.py
-│   ├── evaluate_model_v2.py
-│   ├── evaluate_model_v3.py
+│   ├── build_model.py
 │   ├── face_detection.py
-│   └── real_time_emotion.py
+│   ├── real_time_emotion.py
+│   │
+│   ├── train_model.py
+│   ├── evaluate_model.py
+│   │
+│   ├── train_model_v2.py
+│   ├── evaluate_model_v2.py
+│   │
+│   ├── train_model_v3.py
+│   ├── evaluate_model_v3.py
 │
-├── requirements.txt
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 
